@@ -27,19 +27,19 @@
       "position": "Graduate teaching assistant",
       "startDate": "2021-10-01",
       "endDate": "2025-01-01",
-      "summary": "Teaching assistant in the following courses: Introduction to Data Science, Machine Leanring, Learning Systems.",
+      "summary": "Teaching assistant in the following courses: Introduction to Data Science, Machine Leanring, Learning Systems."
     },
-    {
+	{
       "name": "CosyncLab, Rome",
       "position": "Undergraduate research assistant",
       "startDate": "2021-01-01",
       "endDate": "2021-07-01",
-      "summary": "Research assistant during the Master's thesis. Working on the ERC HANDmade Project https://vivianabetti.site.uniroma1.it/Research."
+      "summary": "Research assistant during the Master's thesis. Working on the ERC HANDmade Project https://vivianabetti.site.uniroma1.it/Research.",
     }
   ],
   "education": [
     {
-      "institution": "Halmstad University",
+       "institution": "Halmstad University",
       "location": "Halmstad, Sweden",
       "url": "https://www.hh.se/english/research/our-research/research-at-the-school-of-information-technology/center-for-applied-intelligent-systems-research-caisr.html",
       "studyType": "Ph.D.",
@@ -47,26 +47,26 @@
       "endDate": "2025-01-01",
       "courses": ["Meta-learning for enhanced generalizability in machine learning models"]
     },
-    {
+	{
       "institution": "Padua University",
       "location": "Padua, Italy",
       "url": "https://www.unipd.it/en/educational-offer/second-cycle-degree/engineering?tipo=LM&scuola=IN&ordinamento=2019&key=IN2371&cg=engineering",
       "studyType": "M.Sc",
       "startDate": "2019-10-01",
       "endDate": "2021-09-12",
-      "score": "110 cum Laude", 
+	  "score": "110 cum Laude",
       "courses": ["ICT for Internet and Multimedia, curricula Life and Health"]
     },
-    {
+	{
       "institution": "Padua University",
       "location": "Padua, Italy",
       "url": "https://www.unipd.it/en/educational-offer/first-cycle-degree/engineering?tipo=L&scuola=IN&ordinamento=2024&key=IN2801&cg=engineering",
       "studyType": "B.Sc",
       "startDate": "2016-10-01",
       "endDate": "2019-10-01",
-      "score": "110 cum Laude",
+	  "score": "110 cum Laude",
       "courses": ["Information Engineering"]
-    }
+	}
   ],
   "certificates": [
     {
@@ -75,14 +75,14 @@
       "issuer": "Halmstad University",
       "url": "https://www.hh.se/sitevision/proxy/student/innehall-a-o/kursplan.html/svid12_464ca102168ed1f8d3b1293f/752680950/se_proxy/utb_kursplan.asp?kurskod=PE9009&revisionsnr=2&format=pdf&lang=en",
       "icon": "fa-solid fa-tag"
-    },
+	}
   ],
   "publications": [
     {
       "name": "Unsupervised meta-learning via in-context learning.",
       "publisher": "In review.",
       "releaseDate": "2024",
-      "url": "https://arxiv.org/abs/2405.16124",
+	  "url": "https://arxiv.org/abs/2405.16124",
       "summary": "Anna Vettoruzzo, Lorenzo Braccaioli, Joaquin Vanschoren, Marlena Nowaczyk."
     },
     {
@@ -90,14 +90,14 @@
       "publisher": "In review.",
       "releaseDate": "2024",
       "summary": "Anna Vettoruzzo, Mohamed-Rafik Bouguelia, and Thorsteinn Rögnvaldsson."
-    },
+	},
     {
       "name": "Learning to Learn without Forgetting using Attention.",
       "publisher": "The Third Conference on Lifelong Learning Agents (CoLLAs)",
       "releaseDate": "2024",
       "summary": "Anna Vettoruzzo, Joaquin Vanschoren, Mohamed-Rafik Bouguelia, and Thorsteinn Rögnvaldsson."
-    },
-    {
+	},
+	{
       "name": "Advances and Challenges in Meta-Learning: A Technical Review.",
       "publisher": "IEEE Transactions on Pattern Analysis & Machine Intelligence",
       "releaseDate": "2024",
@@ -118,20 +118,20 @@
       "url": "https://www.sciencedirect.com/science/article/pii/S0925231224000353",
       "summary": "Anna Vettoruzzo, Mohamed-Rafik Bouguelia, and Thorsteinn Rögnvaldsson."
     },
-    {
+	{
       "name": "Personalized Federated Learning with Contextual Modulation and Meta-Learning.",
       "publisher": "SIAM Conference on Data Mining (SDM)",
       "releaseDate": "2024",
       "url": "https://epubs.siam.org/doi/pdf/10.1137/1.9781611978032.96",
-      "summary": "Anna Vettoruzzo, Mohamed-Rafik Bouguelia, and Thorsteinn Rögnvaldsson."    
-    },
+	  "summary": "Anna Vettoruzzo, Mohamed-Rafik Bouguelia, and Thorsteinn Rögnvaldsson."
+	},
     {
       "name": "Meta-Learning from Multimodal Task Distributions Using Multiple Sets of Meta-Parameters.",
       "publisher": "International Joint Conference Neural Networks (IJCNN)",
       "releaseDate": "2023",
       "url": "https://ieeexplore.ieee.org/document/10191944",
       "summary": "Anna Vettoruzzo, Mohamed-Rafik Bouguelia, and Thorsteinn Rögnvaldsson."
-    }
+    },		
   ],
   "languages": [
     {
@@ -144,11 +144,11 @@
       "fluency": "Fluent",
       "icon": ""
     },
-    {
-      "language": "Swedish",
+	{
+	  "language": "Swedish",
       "fluency": "Beginner",
       "icon": ""
-    }
+	}
   ],
   "references": [
     {
@@ -161,16 +161,16 @@
       "icon": "fa-solid fa-thumbtack",
       "reference": "Associate professor at the Center for Applied Intelligent Systems Research (CAISR), Halmstad University, Sweden."
     },
-    {
+	{
       "name": "Professor Joaquin Vanschoren",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Associate professor at the Eindhoven University of Technology (TU/e)."
-    }
+	  "icon": "fa-solid fa-thumbtack",
+	  "reference": "Associate professor at the Eindhoven University of Technology (TU/e)."
+	}
   ],
   "projects": [
     {
       "name": "Meta-learning for continual learning",
-      "summary": "We propose to apply meta-learning to solve CL problems by meta-learning the weights and the hyperparameters of a neural network.",
+      "summary": "we propose to apply meta-learning to solve CL problems by meta-learning the weights and the hyperparameters of a neural network.",
       "startDate": "2023-08-01",
       "endDate": "2024-08-01",
       "url": "https://tailor-network.eu/meta-learning-for-continual-learning/"
