@@ -1,7 +1,5 @@
-Hello! I am a Ph.D. student at Halmstad University in Sweden, working within the Center for Applied and Intelligent Systems Research (CAISR). I am currently in the final stages of my doctoral studies, aiming to complete them in January 2025.
+Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-My primary research focus is on enhancing the generalization abilities of machine learning models through meta-learning. By exploring how models can learn to learn, my work aims to develop algorithms that perform well across a wide range of tasks with limited data. I believe this is a key focus in advancing deep learning models to better mimicking the human learning abilities.
+Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-In addition to meta-learning, my research interests include few-shot learning, continual learning, self-supervised learning, and in-context learning. I am also passionate about several practical applications of meta-learning, particularly in the healthcare and robotics domain. 
-
-
+Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
