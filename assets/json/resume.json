@@ -34,7 +34,7 @@
       "position": "Undergraduate research assistant",
       "startDate": "2021-01-01",
       "endDate": "2021-07-01",
-      "summary": "Research assistant during the Master's thesis. Working on the ERC HANDmade Project https://vivianabetti.site.uniroma1.it/Research.",
+      "summary": "Research assistant during the Master's thesis. Working on the ERC HANDmade Project https://vivianabetti.site.uniroma1.it/Research."
     }
   ],
   "education": [
@@ -131,7 +131,11 @@
       "releaseDate": "2023",
       "url": "https://ieeexplore.ieee.org/document/10191944",
       "summary": "Anna Vettoruzzo, Mohamed-Rafik Bouguelia, and Thorsteinn Rögnvaldsson."
+<<<<<<< Updated upstream
     }		
+=======
+    }
+>>>>>>> Stashed changes
   ],
   "languages": [
     {
