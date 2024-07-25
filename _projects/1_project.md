@@ -16,4 +16,3 @@ Acknowledgments
 This work was supported by the EU’s Horizon Europe research and innovation program under grant agreement No.952215 (TAILOR).
 
 Link to the project: <a href="https://tailor-network.eu/meta-learning-for-continual-learning/">TAILOR Project</a>
-
