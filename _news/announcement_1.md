@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-06-04 15:45:00-0400
+date: 2024-07-31 15:00:00-0400
 inline: true
 related_posts: false
 ---
 
-Invited talk at the <a href="https://tailor-network.eu/events/4th-tailor-conference/">4th TAILOR Conference</a>. Title: Learning to learn without forgetting using attention.
+Poster presentation at the <a href="https://lifelong-ml.cc/Conferences/2024/acceptedpapersandvideos/conf-2024-22">3th Conference on Lifelong Learning Agents (CoLLAs) 2024</a>. Title: Learning to Learn without Forgetting using Attention.
