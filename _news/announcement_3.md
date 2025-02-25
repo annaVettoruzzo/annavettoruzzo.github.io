@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-04-20 15:45:00-0400
+date: 2024-07-31 15:00:00-0400
 inline: true
 related_posts: false
 ---
 
-Talk at the <a href="https://www.siam.org/conferences-events/past-event-archive/sdm24/">SIAM International Conference on Data Mining</a>. Title: Personalized Federated Learning with Contextual Modulation and Meta-Learning.
+Poster presentation at the <a href="https://lifelong-ml.cc/Conferences/2024/acceptedpapersandvideos/conf-2024-22">3th Conference on Lifelong Learning Agents (CoLLAs) 2024</a>. Title: Learning to Learn without Forgetting using Attention.

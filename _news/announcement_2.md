@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-06-04 15:45:00-0400
+date: 2025-01-22 15:00:00-0400
 inline: true
 related_posts: false
 ---
 
-Invited talk at the <a href="https://tailor-network.eu/events/4th-tailor-conference/">4th TAILOR Conference</a>. Title: Learning to learn without forgetting using attention.
+One paper accepted at ICLR 2025. Title: <a href="https://openreview.net/forum?id=Jprs1v2wPA">Unsupervised Meta-Learning via In-Context Learning</a>. 

@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-07-31 15:00:00-0400
+date: 2025-02-03 15:45:00-0400
 inline: true
 related_posts: false
 ---
 
-Poster presentation at the <a href="https://lifelong-ml.cc/Conferences/2024/acceptedpapersandvideos/conf-2024-22">3th Conference on Lifelong Learning Agents (CoLLAs) 2024</a>. Title: Learning to Learn without Forgetting using Attention.
+I successfully defended my PhD dissertation titled <a href="https://www.diva-portal.org/smash/get/diva2:1924707/FULLTEXT01.pdf">Advancing Meta-Learning for Enhanced Generalization Across Diverse Tasks</a>.
