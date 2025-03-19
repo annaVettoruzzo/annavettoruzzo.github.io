@@ -1,18 +1,11 @@
 {
   "basics": {
     "name": "Anna Vettoruzzo",
-    "label": "Ph.D. student",
+    "label": "Postdoc",
     "image": "",
     "email": "anna.vettoruzzo@gmail.com",
-    "phone": "+46 702971740",
     "url": "https://annavettoruzzo.github.io",
     "summary": "Interested in deep learning with few-shot data.",
-    "location": {
-      "postalCode": "25248",
-      "city": "Helsingborg",
-      "countryCode": "SE",
-      "region": "Skåne"
-    },
     "profiles": [
       {
         "network": "LinkedIn",
@@ -23,12 +16,20 @@
   },
   "work": [
     {
+      "name": "Eindhoven University of Technology",
+      "position": "Postdoctoral research",
+      "startDate": "2025-04-01",
+      "endDate": "2028-01-01",
+      "url": "https://openml-labs.github.io/website/",
+      "summary": "Postdoctoral researcher within the OpenEuroLLM Project."
+    },
+    {
       "name": "Halmstad University",
       "position": "Graduate teaching assistant",
       "startDate": "2021-10-01",
-      "endDate": "2025-01-01",
+      "endDate": "2025-03-31",
       "url": "https://www.hh.se/",
-      "summary": "Teaching assistant in the following courses: Introduction to Data Science, Machine Leanring, Learning Systems."
+      "summary": "Teaching assistant in the following courses: Introduction to Data Science, Machine Learning, Learning Systems."
     },
     {
       "name": "CosyncLab, Rome",
@@ -46,8 +47,8 @@
       "url": "https://www.hh.se/english/research/our-research/research-at-the-school-of-information-technology/center-for-applied-intelligent-systems-research-caisr.html",
       "studyType": "Ph.D.",
       "startDate": "2021-10-01",
-      "endDate": "2025-01-01",
-      "courses": ["Meta-learning for enhanced generalizability in machine learning models"]
+      "endDate": "2025-03-31",
+      "courses": ["Advancing Meta-Learning for Enhanced Generalization Across Diverse Tasks"]
     },
     {
       "institution": "Padua University",
@@ -82,10 +83,10 @@
   "publications": [
     {
       "name": "Unsupervised meta-learning via in-context learning.",
-      "publisher": "In review.",
-      "releaseDate": "2024",
-      "url": "https://arxiv.org/abs/2405.16124",
-      "summary": "Anna Vettoruzzo, Lorenzo Braccaioli, Joaquin Vanschoren, Marlena Nowaczyk."
+      "publisher": "International Conference on Learning Representations (ICLR)",
+      "releaseDate": "2025",
+      "url": "https://openreview.net/forum?id=Jprs1v2wPA&invitationId=ICLR.cc/2025/Conference/Submission4289/-/Rebuttal_Revision&referrer=%5BTasks%5D(%2Ftasks)",
+      "summary": "Anna Vettoruzzo*, Lorenzo Braccaioli*, Joaquin Vanschoren, Marlena Nowaczyk."
     },
     {
       "name": "Efficient Few-Shot Human Activity Recognition via Meta-Learning and Data Augmentation.",
