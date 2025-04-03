@@ -8,7 +8,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Postdoctoral researcher</p>
+    <p>Postdoc researcher</p>
     <p>Eindhoven University of Technology, Netherlands</p>
 
 news: true # includes a list of news items
@@ -19,6 +19,6 @@ social: true # includes social icons at the bottom of the page
 Hello! I am a postdoctoral researcher in the OpenEuroLLM project within the AutoML group at Eindhoven University of Technology, where I focus on efficient post-training techniques for large language models.
 
 I recently completed my Ph.D. in meta-learning at Halmstad University, Sweden, as part of the Center for Applied and Intelligent Systems Research (CAISR).
-My doctoral research focused on enhancing the generalization abilities of machine learning models through meta-learning, exploring how models can learn to learn. My work aimed to develop algorithms that perform well across diverse tasks with limited data - an essential step toward advancing deep learning models to better mimic human learning abilities.
+My doctoral research focused on enhancing the generalization abilities of machine learning models through meta-learning, exploring how models can _learn to learn_. My work aimed to develop algorithms that perform well across diverse tasks with limited data - an essential step toward advancing deep learning models to better mimic human learning abilities.
 
 Beyond my core research areas, my interests include few-shot learning, continual learning, self-supervised learning, and in-context learning.

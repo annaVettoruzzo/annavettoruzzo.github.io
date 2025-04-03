@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Anna
 middle_name:
 last_name: Vettoruzzo
-email: anna.vettoruzzo@hh.se
+email: a.vettoruzzo@tue.nl
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Personal website.
 footer_text: >
@@ -112,7 +112,7 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
 contact_note: >
-  Send an email to anna.vettoruzzo@hh.se or alternatively to my private email anna.vettoruzzo@gmail.com.
+  Send an email to a.vettoruzzo@tue.nl or alternatively to my private email address anna.vettoruzzo@gmail.com.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
