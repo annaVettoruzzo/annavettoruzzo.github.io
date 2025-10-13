@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I wrote a blog post titled <a href="https://amore-labs.github.io/website/notebooks/lora.html">LoRA and Beyond. Fine-Tuning LLMs for Anyone, Anywhere</a>. 
+I wrote a blog post titled <a href="https://amore-labs.github.io/website/notebooks/lora.html">LoRA and Beyond. Fine-Tuning LLMs for Anyone, Anywhere</a>.
