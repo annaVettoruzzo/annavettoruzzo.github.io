@@ -44,16 +44,16 @@
     {
       "institution": "Halmstad University",
       "location": "Halmstad, Sweden",
-      "url": "https://www.hh.se/english/research/our-research/research-at-the-school-of-information-technology/center-for-applied-intelligent-systems-research-caisr.html",
       "studyType": "Ph.D.",
       "startDate": "2021-10-01",
       "endDate": "2025-03-31",
-      "courses": ["Advancing Meta-Learning for Enhanced Generalization Across Diverse Tasks"]
+      "courses": ["Advancing Meta-Learning for Enhanced Generalization Across Diverse Tasks"],
+      "url": "assets/pdf/PhdThesis.pdf"
     },
     {
       "institution": "Padua University",
       "location": "Padua, Italy",
-      "url": "https://www.unipd.it/en/educational-offer/second-cycle-degree/engineering?tipo=LM&scuola=IN&ordinamento=2019&key=IN2371&cg=engineering",
+      "url": "assets/pdf/MScThesis.pdf",
       "studyType": "M.Sc",
       "startDate": "2019-10-01",
       "endDate": "2021-09-12",
@@ -82,11 +82,47 @@
   ],
   "publications": [
     {
+      "name": "TimeSage-EV: A Live Benchmark for Agentic Time Series Analysis in Evolving Environments.",
+      "publisher": "Under review at EMNLP 2026.",
+      "releaseDate": "2026",
+      "summary": "Qingren Yao, Yaxuan Kong, Yuqi Nie, Yichen Li, Yilei Shao, Stefan Zohren, Anna Vettoruzzo, Qingsong Wen, Joaquin Vanschoren, Ming Jin."
+    },
+    {
+      "name": "PlaySuite: A Large-Scale Benchmark for Interactive Visual Intelligence.",
+      "publisher": "Under review at NeurIPS 2026.",
+      "releaseDate": "2026",
+      "summary": "Dheeraj Varghese*, Anna Vettoruzzo*, Walter Simoncini, Michelle Lorena Acevedo Callejas, Mohammad Mahdi Derakhshani, Kristof Meding, Cees G. M. Snoek, Joaquin Vanschoren."
+    },
+    {
+      "name": "TimeSage-MT: A Multi-Turn Benchmark for Evaluating Agentic Time Series Reasoning.",
+      "publisher": "Under review at NeurIPS 2026.",
+      "releaseDate": "2026",
+      "summary": "Yaxuan Kong, Qingren Yao, Yuqi Nie, Yichen Li, Yilei Shao, Stefan Zohren, Anna Vettoruzzo, Joaquin Vanschoren, Ming Jin, Qingsong Wen."
+    },
+    {
+      "name": "Route, Reuse, Repurpose: Continual Adaptation of LLMs with Bounded Adapter Pools.",
+      "publisher": "Continual Adaptation at Scale Workshop (ICML 2026).",
+      "releaseDate": "2026",
+      "summary": "Bilge Celik, Anna Vettoruzzo, Joaquin Vanschoren."
+    },
+    {
+      "name": "CaLLM: Continual Adaptation of LLMs via Non-Parametric Adapter Routing.",
+      "publisher": "Under review at CoLLAs 2026.",
+      "releaseDate": "2026",
+      "summary": "Bilge Celik, Anna Vettoruzzo, Joaquin Vanschoren."
+    },
+    {
       "name": "Meta-Learning Transformers to Improve In-Context Generalization.",
       "publisher": "Under review",
       "releaseDate": "2025",
       "url": "https://arxiv.org/abs/2507.05019",
       "summary": "Lorenzo Braccaioli*, Anna Vettoruzzo, Prabhant Singh, Joaquin Vanschoren, Mohamed-Rafik Bouguelia, Nicola Conci."
+    },
+    {
+      "name": "Advancing Meta-Learning for Enhanced Generalization Across Diverse Tasks.",
+      "publisher": "Halmstad University Press.",
+      "releaseDate": "2025",
+      "summary": "Anna Vettoruzzo."
     },
     {
       "name": "Unsupervised meta-learning via in-context learning.",

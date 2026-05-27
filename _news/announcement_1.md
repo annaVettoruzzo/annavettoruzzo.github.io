@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-10-10 15:45:00-0400
+date: 2025-01-22 15:00:00-0400
 inline: true
 related_posts: false
 ---
 
-I wrote a blog post titled <a href="https://amore-labs.github.io/website/notebooks/lora.html">LoRA and Beyond. Fine-Tuning LLMs for Anyone, Anywhere</a>.
+One paper accepted at ICML 2026 CATS Workshop. Title: Route, Reuse, Repurpose: Continual Adaptation of LLMs with Bounded Adapter Pools.
